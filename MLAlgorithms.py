@@ -14,4 +14,15 @@ class LinearRegression():
         data is relatively small.
         '''
 
-        
+        pass
+
+class LogisticRegression():
+
+    def fit(X,class_vector):
+        '''
+        X is the data matrix with dimensions (data points, features).
+
+        class_vector is the target vector of discrete classes.
+        '''
+
+        pass
